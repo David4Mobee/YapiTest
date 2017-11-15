@@ -4,7 +4,7 @@ DN Repo for MW QATest
 # YapiTest (aka Yelp api-fusion Test)
 YapiTest is a node module for accessing yelp's v3 API yelpv3 (renamed Yelp Fusion), and then more code to be added will be an automated script when ready to access on Yelp fusion endpoint "businesses/search/phone", feed in a specific set of phone numbers read from a file, looping until end of file and then the script will end.
 
-Access code is by https://github.com/danieljin/yelpv3 which was inspired by Inspired by https://github.com/olalonde/node-yelp and https://github.com/elbuo8/4square
+Access code is by https://github.com/danieljin/yelpv3 which was inspired by https://github.com/olalonde/node-yelp and https://github.com/elbuo8/4square
   
 
 ## Installation

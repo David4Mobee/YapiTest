@@ -61,7 +61,7 @@ For additional information on parameter and response body data, check you the [y
 
 ## automated script making calls to API endpoint "businesses/search/phone"
 
-//work in process
+//work in process in GetBizArraysynch.js
 
 
 
